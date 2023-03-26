@@ -97,3 +97,5 @@ sizeof(datatype)
 - Use the header files that match the function's category. Functions related to a specific category, such as input/output or string handling, are typically declared in specific header files.
 - Check the compiler error message to determine which header file you need to include. The error message will often include the name of the missing function and the name of the header file that declares it.
 - Use Google to look up the function's name and the phrase "header file" if you're still unsure which header file to include.
+
+Source: https://roasted-puppet-dda.notion.site/Hello-World-e7472434a63e46538c8b82d6e972768d
