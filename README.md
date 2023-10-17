@@ -1,8 +1,8 @@
-# Hello, World !
+# Hello, World!
 
 **What is C Language ?**
 
-C is a type of computer language that allows programmers to write instructions that a computer can understand and execute. It was created in the 1970s and is used to build software and computer systems that require high performance and low-level access to hardware. It is a widely-used language that has influenced many other programming languages.
+C is a type of computer language that allows programmers to write instructions that a computer can understand and execute. It was created in the 1970s and is used to build software and computer systems that require high-performance and low-level access to hardware. It is a widely used language that has influenced many other programming languages.
 
 ---
 
